@@ -1,5 +1,4 @@
-# NodeJs Projects
-## Project#02: Express Server
+ Express Server
 
 - Simple Node/Express Server
 - Installing Express generator setting up routes and views
